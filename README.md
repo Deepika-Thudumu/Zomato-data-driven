@@ -22,7 +22,7 @@ Zomato has an average of 17.5 million monthly transacting customers for its food
 - **Matplotlib & Seaborn**: For static data visualizations.
 - **Plotly**: For interactive data visualizations.
 - **NumPy**: For numerical operations and transformations.
-- **Scikit-learn**: (Optional) For potential machine learning analysis if needed.
+
 
 ## Dataset
 
